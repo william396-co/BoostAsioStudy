@@ -12,5 +12,7 @@ int main() {
 		<< BOOST_STDLIB << "\n";
 
 	system("Pause");
+
+
 	return 0;
 }
